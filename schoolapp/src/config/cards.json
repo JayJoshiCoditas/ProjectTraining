@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Schoffield",
+        "url": "~@/assets/university.jpg"
+    },
+    {
+        "name": "Carnegie Mellon University",
+        "url": "~@/assets/CMU.jpg"
+    },
+    {
+        "name": "Oxford University",
+        "url": "~@/assets/oxford.jpg"
+    },
+    {
+        "name": "Harvard",
+        "url": "~@/assets/harvard.jpg"
+    },
+    {
+        "name": "Cambridge University",
+        "url": "~@/assets/Cambridge.jpeg"
+    },
+    {
+        "name": "MIT",
+        "url": "~@/assets/MIT.jpg"
+    }
+
+]

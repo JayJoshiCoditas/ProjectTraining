@@ -1,13 +1,21 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
+    <navBar />
     <router-view/>
+    
   </div>
 </template>
 
 <script>
+import navBar from '@/views/navBar.vue'
+import footer from '@/views/footer.vue'
+
 export default {
-  name: 'App'
+  name: 'App',
+  components: {
+    navBar,
+    footer,
+  },
 }
 </script>
 
@@ -18,6 +26,6 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
+  /* margin-top: 60px; */
 }
 </style>

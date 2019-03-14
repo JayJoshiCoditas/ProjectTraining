@@ -7,7 +7,6 @@
             <form class="search-container">
                 <input v-model="defaultDataList" class="inputList" list="schools" name="schools" placeholder="Search Universities" >
                 <datalist id="schools">
-                    Hello World
                     <option value="MIT"></option>
                     <option value="CMU"></option>
                     <option value="Cambridge"></option>
